@@ -86,5 +86,5 @@ Hello, John Doe! Welcome to the Python program.
 
 ---
 
-Both scripts are useful for practicing user input, basic variables, arithmetic operations, and string formatting in Python.
+
 
